@@ -1,0 +1,1 @@
+This repo is just an exercise to practice git: add, commit, push, branch, merge, and pull either locally, in github or both.
